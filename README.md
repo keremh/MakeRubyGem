@@ -7,3 +7,4 @@ Ruby'de kendimize özel gemler oluşturabiliriz.
 
 Gemlerle ilgili ayrıntılı bilgi için https://rubygems.org/ 
 
+Ruby'de Gem Oluşturalım
